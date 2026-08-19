@@ -1,0 +1,92 @@
+{
+  "department": "18-corporate-development",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 7,
+  "bots": [
+    {
+      "slug": "m-a",
+      "sub_function": "M&A",
+      "titles": [
+        "Chief Corporate Development Officer",
+        "VP Corporate Development",
+        "Corp Dev Director",
+        "M&A Director",
+        "Investment Manager",
+        "Integration Director"
+      ]
+    },
+    {
+      "slug": "investments",
+      "sub_function": "Investments",
+      "titles": [
+        "Chief Corporate Development Officer",
+        "VP Corporate Development",
+        "Corp Dev Director",
+        "M&A Director",
+        "Investment Manager",
+        "Integration Director"
+      ]
+    },
+    {
+      "slug": "corporate-ventures",
+      "sub_function": "Corporate Ventures",
+      "titles": [
+        "Chief Corporate Development Officer",
+        "VP Corporate Development",
+        "Corp Dev Director",
+        "M&A Director",
+        "Investment Manager",
+        "Integration Director"
+      ]
+    },
+    {
+      "slug": "strategic-transactions",
+      "sub_function": "Strategic Transactions",
+      "titles": [
+        "Chief Corporate Development Officer",
+        "VP Corporate Development",
+        "Corp Dev Director",
+        "M&A Director",
+        "Investment Manager",
+        "Integration Director"
+      ]
+    },
+    {
+      "slug": "target-intelligence",
+      "sub_function": "Target Intelligence",
+      "titles": [
+        "Chief Corporate Development Officer",
+        "VP Corporate Development",
+        "Corp Dev Director",
+        "M&A Director",
+        "Investment Manager",
+        "Integration Director"
+      ]
+    },
+    {
+      "slug": "due-diligence",
+      "sub_function": "Due Diligence",
+      "titles": [
+        "Chief Corporate Development Officer",
+        "VP Corporate Development",
+        "Corp Dev Director",
+        "M&A Director",
+        "Investment Manager",
+        "Integration Director"
+      ]
+    },
+    {
+      "slug": "integration",
+      "sub_function": "Integration",
+      "titles": [
+        "Chief Corporate Development Officer",
+        "VP Corporate Development",
+        "Corp Dev Director",
+        "M&A Director",
+        "Investment Manager",
+        "Integration Director"
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 # 18 — Corporate Development
 
-> Part of the **Hermes Organizational Decision System**. This repo is the
+> Part of the **Kojiki Decision System**. This repo is the
 > **Corporate Development** line. It references the shared ontology in
-> [`00-kojiki-ontology`](https://github.com/hermes-ios/00-kojiki-ontology) for the
+> [`00-kojiki-ontology`](https://github.com/robfuj/kojiki-ontology) for the
 > canonical schemas, taxonomy, decision-rights, and handoff standards.
 
 ## Primary question
