@@ -1,0 +1,48 @@
+{
+  "decision_object": {
+    "decision_id": "CORP-2026-009",
+    "decision_name": "Acquire data-labeling capability",
+    "owning_function": "Corporate Development",
+    "decision_owner_role": "M&A Director",
+    "trigger_condition": "Rely on 3rd-party labeling; 9-mo build estimate",
+    "current_state": "Margin leak; slow build",
+    "required_inputs": [
+      "target IP",
+      "team retention",
+      "valuation",
+      "synergy model"
+    ],
+    "evidence_threshold": "Clean IP + key persons sign retention",
+    "available_options": [
+      "Acquire",
+      "Minority invest",
+      "Partner",
+      "Build",
+      "Walk"
+    ],
+    "decision_criteria": "Faster + cheaper than build",
+    "constraints": "Max price discipline",
+    "risk_level": "high",
+    "delegation_level": "Recommend",
+    "escalation_conditions": "IP not clean",
+    "expected_outcome": "Proceeding to close",
+    "verification_method": "Diligence IP + retention signatures",
+    "actual_outcome": "IP clean; 2 keys sign 2-yr",
+    "learning_extracted": "Talent acquisitions hinge on key-person retention",
+    "rule_version": "CORP-RULE-002",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Acquiring small data-labeling capability",
+    "decision": "LOI + diligence",
+    "assumption": "IP clean; key persons stay",
+    "action": "Sign LOI; diligence IP + retention",
+    "expected_result": "Clean IP + key persons sign",
+    "actual_result": "IP clean; 2 keys sign 2-yr",
+    "variance": "Confirmed retention risk managed",
+    "cause": "IP lives in 1-2 people",
+    "learning": "Talent deals hinge on key-person retention",
+    "rule_update": "Require key-person retention packages in talent/IP LOIs"
+  },
+  "orientation_required": true
+}
